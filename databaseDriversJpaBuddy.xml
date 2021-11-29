@@ -1,0 +1,7 @@
+<application>
+  <component name="DatabaseDriversConfigState">
+    <drivers>
+      <db-driver id="org.postgresql.Driver" version="42.2.5" />
+    </drivers>
+  </component>
+</application>
